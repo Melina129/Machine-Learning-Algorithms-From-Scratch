@@ -1,7 +1,5 @@
 # Machine Learning Algorithms From Scratch
 
-In this folder, I implement machine learning algorithms from first principles to improve my understanding.
+In this folder, I am implementing machine learning algorithms from scratch to deepen my understanding of how they work under the hood.
 
-This is an ongoing project. I aim to cover the following algorithms:
-
-- ✅ Linear Regression  
+- ✅ Linear Regression
